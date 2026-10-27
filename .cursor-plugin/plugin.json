@@ -1,0 +1,16 @@
+{
+  "name": "recordmeeting",
+  "displayName": "Record Meeting",
+  "version": "2.0.0",
+  "description": "Search your recorded meetings and read their speaker-labelled transcripts and AI notes.",
+  "author": {
+    "name": "Qualtir",
+    "email": "support@recordmeeting.com",
+    "url": "https://recordmeeting.com"
+  },
+  "homepage": "https://recordmeeting.com/agent-setup",
+  "repository": "https://github.com/Qualtir/RecordMeetingMCP",
+  "license": "MIT",
+  "keywords": ["meetings", "transcripts", "meeting notes", "recordings"],
+  "logo": "logo.png"
+}

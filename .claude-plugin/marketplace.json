@@ -1,0 +1,15 @@
+{
+  "name": "recordmeeting",
+  "owner": {
+    "name": "Qualtir",
+    "email": "support@recordmeeting.com"
+  },
+  "description": "The Record Meeting connector for Claude Code: your recorded meetings, transcripts and AI notes.",
+  "plugins": [
+    {
+      "name": "recordmeeting",
+      "source": "./",
+      "description": "Search your recorded meetings and read their speaker-labelled transcripts and AI notes."
+    }
+  ]
+}

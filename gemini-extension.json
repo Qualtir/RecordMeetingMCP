@@ -1,0 +1,10 @@
+{
+  "name": "recordmeeting",
+  "version": "2.0.0",
+  "description": "Search your recorded meetings and read their speaker-labelled transcripts and AI notes.",
+  "mcpServers": {
+    "recordmeeting": {
+      "httpUrl": "https://api.recordmeeting.com/mcp"
+    }
+  }
+}

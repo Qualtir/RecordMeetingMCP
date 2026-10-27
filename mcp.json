@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "recordmeeting": {
+      "url": "https://api.recordmeeting.com/mcp"
+    }
+  }
+}

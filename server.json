@@ -1,0 +1,25 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.recordmeeting/recordmeeting",
+  "title": "Record Meeting",
+  "description": "Search your recorded meetings and read their speaker-labelled transcripts and AI notes.",
+  "version": "2.0.0",
+  "websiteUrl": "https://recordmeeting.com/agent-setup",
+  "repository": {
+    "url": "https://github.com/Qualtir/RecordMeetingMCP",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://recordmeeting.com/app/icon/favicon.png",
+      "mimeType": "image/png",
+      "sizes": ["512x512"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.recordmeeting.com/mcp"
+    }
+  ]
+}
